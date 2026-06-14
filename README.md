@@ -2,7 +2,7 @@
 
 AI-Native PM Lead @ [BrowserStack](https://github.com/browserstack) — I build production AI agents in QA & Dev tools space in the AI platform team.
 
-🔗 [kneeraj.dev](https://kneeraj.dev) · 📺 [How I AI as a PM](https://youtube.com) · 📍 Bengaluru, India
+🔗 [kneeraj.com](https://kneeraj.com) · 📺 [How I AI as a PM](https://youtube.com) · 📍 Bengaluru, India
 
 ---
 
