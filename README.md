@@ -2,14 +2,14 @@
 
 AI-Native PM Lead @ [BrowserStack](https://github.com/browserstack) — I build production AI agents in QA & Dev tools space in the AI platform team.
 
-🔗 [kneeraj.com](https://kneeraj.com) · 📺 [How I AI as a PM](https://youtube.com) · 📍 Bengaluru, India
+🔗 [kneeraj.com](https://kneeraj.com) · 📺 [How I AI as a PM](https://www.youtube.com/@howIAIasAPM) · 📍 Bengaluru, India
 
 ---
 
 ### 🚀 Currently building
 - **[agent-skills](https://github.com/kn-neeraj/agent-skills)** — reusable AI agent skills & CLI tools for Claude.ai, Claude Code & Claude Cowork
-- **leaf_app** — a native SwiftUI markdown reader/writer, built PRD-first with an AI coding agent (CodexCLI)
-- **NotionKnowledgeAssistant** — Python tooling for my Notion-based knowledge system
+- **[leaf_app](https://github.com/kn-neeraj/leaf_app)** — a native SwiftUI markdown reader/writer, built PRD-first with an AI coding agent (CodexCLI)
+- **[NotionKnowledgeAssistant](https://github.com/kn-neeraj/NotionKnowledgeAssistant)** — RAG based system for my Notion-based knowledge base
 
 
 ### 🛠️ App Development Repos(iOS/Swift)
