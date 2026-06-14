@@ -19,4 +19,4 @@ AI-Native PM Lead @ [BrowserStack](https://github.com/browserstack) — I build 
 - **[CGFLoatingUIKit](https://github.com/kn-neeraj/CGFLoatingUIKit)** ⭐12 — floating labels for UITextField/UITextView
 ---
 
-📫 Reach me via [kneeraj.dev](https://kneeraj.dev)
+📫 Reach me via [kneeraj.com](https://kneeraj.com)
