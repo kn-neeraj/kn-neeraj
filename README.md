@@ -8,6 +8,7 @@ AI-Native PM Lead @ [BrowserStack](https://github.com/browserstack) — I build 
 
 ### 🚀 Currently building
 - **[agent-skills](https://github.com/kn-neeraj/agent-skills)** — reusable AI agent skills & CLI tools for Claude.ai, Claude Code & Claude Cowork
+- **[inference-engg-learnings](https://github.com/kn-neeraj/inference-engg-learnings)** — inference engineering notebooks and hands-on experiments around TTFT, tokens/sec, KV cache, and model serving behavior
 - **[leaf_app](https://github.com/kn-neeraj/leaf_app)** — a native SwiftUI markdown reader/writer, built PRD-first with an AI coding agent (CodexCLI)
 - **[NotionKnowledgeAssistant](https://github.com/kn-neeraj/NotionKnowledgeAssistant)** — RAG based system for my Notion-based knowledge base
 
